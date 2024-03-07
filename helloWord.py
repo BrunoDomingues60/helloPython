@@ -3,4 +3,4 @@ for c in range(10):
 
 print('tmj')
 
-print('tmj mesmo)
+print('tmj mesmo')
